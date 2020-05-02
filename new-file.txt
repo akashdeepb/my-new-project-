@@ -1,1 +1,2 @@
+Git and GitHub workshop
 This is my new file which has to be uploaded to github. These are some changes
